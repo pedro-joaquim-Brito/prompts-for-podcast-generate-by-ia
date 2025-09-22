@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/a-dynamic-conceptual-advertisement-for-s_oKq4bIv1T9K7mbylE9x7Bw_M7iC8NCkS9CToXAfh5S2sg.png"
     width="300"
 />
 </p>
