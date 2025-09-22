@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="assets/a-cyberpunk-style-digital-illustration-f_tF984e-LSletqbPqPmyKUw_xLrRdrbBSmGpsi82DD--Yw.jpeg"
+    src=".github/assets/a-dynamic-conceptual-advertisement-for-s_oKq4bIv1T9K7mbylE9x7Bw_M7iC8NCkS9CToXAfh5S2sg.jpeg"
     width="300"
 />
 </p>
